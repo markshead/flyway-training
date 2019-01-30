@@ -1,0 +1,1 @@
+alter table PERSON alter ID int auto_increment;
